@@ -1,6 +1,9 @@
 #ifndef __DIAGNOSTICSHELPERRK_H
 #define __DIAGNOSTICSHELPERRK_H
 
+// Location: https://github.com/rickkas7/DiagnosticsHelperRK
+// License: MIT
+
 #include "Particle.h"
 
 #if SYSTEM_VERSION < 0x00080000

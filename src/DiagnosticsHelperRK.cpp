@@ -1,6 +1,7 @@
 #include "DiagnosticsHelperRK.h"
 
-
+// Location: https://github.com/rickkas7/DiagnosticsHelperRK
+// License: MIT
 
 // [static]
 int32_t DiagnosticsHelper::getValue(uint16_t id) {

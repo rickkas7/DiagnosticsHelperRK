@@ -1,5 +1,8 @@
 # Diagnostics Helper
 
+- Location: [https://github.com/rickkas7/DiagnosticsHelperRK](https://github.com/rickkas7/DiagnosticsHelperRK)
+- License: MIT
+
 The system diagnostics feature in Particle Device OS 0.8.0 can make troubleshooting device problems easier.
 
 For example, when viewing a device in [the console](https://console.particle.io), you can view the device vitals:
