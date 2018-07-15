@@ -1,0 +1,6 @@
+- build: 1-get-values-DiagnosticsHelperRK
+  photon: [0.8.0-rc.4, 0.8.0-rc.8]
+  p1: [0.8.0-rc.8]
+  electron: [0.8.0-rc.8]
+- build: 2-get-json-DiagnosticsHelperRK
+  electron: [0.8.0-rc.8]
