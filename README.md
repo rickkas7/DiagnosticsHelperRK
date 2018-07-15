@@ -64,7 +64,7 @@ typedef enum diag_id {
 
 ## Diagnostic Helper Functions
 
-There are only two functions in the Diagnostic Helper.
+There are only two functions in the DiagnosticHelperRK library:
 
 ### getValue
 
