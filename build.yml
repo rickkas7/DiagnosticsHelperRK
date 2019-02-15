@@ -5,9 +5,9 @@
   argon: [0.8.0-rc.27]
   boron: [0.8.0-rc.27]
   xenon: [0.8.0-rc.27]
-- build: 2-get-json-DiagnosticsHelperRK
+- build: examples/2-get-json-DiagnosticsHelperRK
   electron: [1.0.0]
   boron: [0.8.0-rc.27]
-- build: 3-powered-by-DiagnosticsHelperRK
+- build: examples/3-powered-by-DiagnosticsHelperRK
   electron: [1.0.0]
   boron: [0.8.0-rc.27]
